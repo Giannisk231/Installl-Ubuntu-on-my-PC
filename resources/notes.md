@@ -10,7 +10,7 @@ Notes about:
 
 ## Problems Solved
 
-Problem: The keyboard was not working after first boot into Ubuntu 
+Problem: The keyboard and trackpad were not working after first boot into Ubuntu 
 
 Solution: Restart - Connect a external keyboard - Worked - Install drivers 
 
