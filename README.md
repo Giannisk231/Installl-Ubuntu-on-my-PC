@@ -6,6 +6,8 @@ This project documents my experience installing and configuring Ubuntu Linux on 
 
 The goal was to explore Linux as a daily operating system, learn system administration, and understand the process of setting up a complete Linux environment.
 
+
+First install was 18-05-2023
 ---
 
 ## Installation
