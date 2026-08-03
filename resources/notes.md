@@ -11,11 +11,17 @@ Notes about:
 ## My PC spects
 
 Device Name	PC-04
+
 Processor	AMD 3020e with Radeon Graphics   1.20 GHz
+
 Installed RAM	8.00 GB (5.88 GB usable)
+
 Storage	58 GB SSD VID:45 DA4064
+
 Graphics Card	AMD Radeon(TM) Graphics (2 GB)
+
 System Type	64-bit operating system, x64-based processor
+
 Ubuntu 26.04 LTS
 
 
